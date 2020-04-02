@@ -1,5 +1,7 @@
 {
   "name": "slideMenuStarter",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

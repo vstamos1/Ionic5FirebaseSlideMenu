@@ -1,0 +1,8 @@
+{
+  "appId": "com.vincentstamos.ionicFirebaseStarter",
+  "appName": "ionic5CapSideMenuStarter",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
